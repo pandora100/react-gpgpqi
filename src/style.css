@@ -1,0 +1,10 @@
+h1, p {
+  font-family: Lato;
+}
+.content {
+  height: 800px;
+  background: #00000033;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
